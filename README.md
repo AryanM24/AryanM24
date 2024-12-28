@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <p float="left">
-<img src="https://github-readme-stats.vercel.app/api?username=AryanM24&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" height=40px>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanM24&layout=compact&langs_count=10&theme=tokyonight" height=40px>
+<img src="https://github-readme-stats.vercel.app/api?username=AryanM24&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" height=40%>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanM24&layout=compact&langs_count=10&theme=tokyonight" height=40%>
 </p>
 
 <!--
