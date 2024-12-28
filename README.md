@@ -8,7 +8,8 @@ I'm a high school student interested in pursuing computer science and finance.
 ### **Code4Hope**  
 A non-profit organization dedicated to connecting students from around the world through computer science and education.  
 - **Website**: [code4hope.net](https://code4hope.net)  
-- **Recent Event**: [ImpactX](https://impactx-code4hope.devpost.com)  
+- **Recent Event**: [ImpactX](https://impactx-code4hope.devpost.com)
+- **Instagram**: [instagram.com/code4hope_](https://www.instagram.com/code4hope_/)
 
 ---
 
