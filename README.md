@@ -1,12 +1,11 @@
 # Hi there, I'm Aryan 👋  
+I'm a high school student interested in pursuing computer science and finance.
 
-## I'm a high school student interested in pursuing computer science and finance.  
 
----
 
 ## What I'm working on  
 
-### - **Code4Hope**  
+### **Code4Hope**  
 A non-profit organization dedicated to connecting students from around the world through computer science and education.  
 - **Website**: [code4hope.net](https://code4hope.net)  
 - **Recent Event**: [ImpactX](https://impactx-code4hope.devpost.com)  
