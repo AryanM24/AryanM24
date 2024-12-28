@@ -1,15 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Aryan 👋  
+
+## I'm a high school student interested in pursuing computer science and finance.  
+
+---
+
+## What I'm working on  
+
+### - **Code4Hope**  
+A non-profit organization dedicated to connecting students from around the world through computer science and education.  
+- **Website**: [code4hope.net](https://code4hope.net)  
+- **Recent Event**: [ImpactX](https://impactx-code4hope.devpost.com)  
+
+---
 
 <p float="left">
-<img src="https://github-readme-stats.vercel.app/api?username=AryanM24&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" height=40%>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanM24&layout=compact&langs_count=10&theme=tokyonight" height=60%>
+  <img src="https://github-readme-stats.vercel.app/api?username=AryanM24&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" width="62.8%" alt="Aryan's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanM24&layout=compact&langs_count=10&theme=tokyonight" width="36.7%" alt="Aryan's Most Used Languages">
 </p>
 
+
 <!--
-**AryanM24/AryanM24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
