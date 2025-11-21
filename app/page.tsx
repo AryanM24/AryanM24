@@ -150,7 +150,7 @@ export default function ResumePage() {
       </div>
 
       <div
-        className="w-full md:w-1/2 md:fixed md:left-0 md:top-0 md:h-screen p-4 md:p-8 md:pl-12 font-mono relative z-10 overflow-y-auto bg-black text-white custom-scrollbar"
+        className="w-full md:w-1/2 md:fixed md:left-0 md:top-0 md:h-screen p-4 md:p-8 md:pl-12 font-mono relative z-10 overflow-y-auto bg-black text-white"
         ref={contentRef}
       >
         <div className="mb-12">
