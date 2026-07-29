@@ -4,7 +4,6 @@
 
 I'm a student passionate about **computer science, AI, and finance**. I love building impactful applications that solve real-world problems.  
 
-- 🏆 **Founder of Code4Hope** – Organizing hackathons for social change  
 - 💻 **Full-Stack Developer** – Specializing in **React, Next.js, Firebase, and Google Cloud**  
 - 🤖 **AI/ML Enthusiast** – Exploring **computer vision, NLP, and AI-powered applications**  
 - 📈 **Finance & Economics Learner** – Interested in the intersection of **AI and economic theory**  
